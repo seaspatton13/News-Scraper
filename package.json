@@ -8,14 +8,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/innerlewd/WebScraper.git"
+        "url": "git+https://github.com/seaspatton13/News-Scraper.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/innerlewd/WebScraper/issues"
+        "url": "https://github.com/seaspatton13/News-Scraper/issues"
     },
-    "homepage": "https://github.com/innerlewd/WebScraper#readme",
+    "homepage": "https://github.com/seaspatton13/News-Scraper#readme",
     "dependencies": {
         "axios": "^0.19.1",
         "cheerio": "^1.0.0-rc.3",
